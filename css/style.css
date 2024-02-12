@@ -1,3 +1,11 @@
+body {
+    background-color: #052440;
+}
+
+.color-dark-blue-background{
+    background-color: #2A4961;
+}
+
 .color-dark-blue{
     color: #4AA2D9;
 }
@@ -5,7 +13,7 @@
     color: #66CAF2;
 }
 .color-light-blue:hover{
-    color: whitesmoke;
+    color: #d8d8d8;
 }
 .navbar-custom-color{
     background-color: #052440;
@@ -18,7 +26,65 @@
 .navbar-custom-color .navbar-brand > img{
     margin-right: 1em;
 }
+.section1 > h2{
+    color: #d8d8d8;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.section1 > h1{
+    color: #4AA2D9;
+    font-size: 3.5em;
+    text-transform: uppercase;
+}
+.section1 > p{
+    color: #d8d8d8;
+    margin-bottom: 3em;
+}
 
+.section2 > div > div > img{
+    width: 100%;
+    border-radius: 10%;
+}
+
+.margin-custom {
+    margin-top: 5em;   
+    margin-bottom: 5em;
+}
+
+.section3 > div > div > img{
+    width: 75%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.padding-custom {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.button-start{
+    background-color: #4AA2D9;
+    text-decoration: none;
+    color: #d8d8d8;
+    border-radius: 1em;
+    padding: 1em 3em;
+    margin-left: 1em;
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
+
+.button-start:hover{
+    background: none;
+    border-style: solid;
+    border-color: #4AA2D9;
+    color: #4AA2D9;
+    text-decoration: none;
+    border-radius: 1em;
+    padding: 1em 3em;
+    margin-left: 1em;
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
 /* Fuentes personalizadas*/
 .rubik-300 {
     font-family: "Rubik", sans-serif;

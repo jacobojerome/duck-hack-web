@@ -1,0 +1,64 @@
+.color-dark-blue{
+    color: #4AA2D9;
+}
+.color-light-blue{
+    color: #66CAF2;
+}
+.color-light-blue:hover{
+    color: whitesmoke;
+}
+.navbar-custom-color{
+    background-color: #052440;
+}
+.navbar-custom-color .navbar-brand{
+    margin-left: 3em;
+    margin-right: 3em;
+    font-size: 2em;
+}
+.navbar-custom-color .navbar-brand > img{
+    margin-right: 1em;
+}
+
+/* Fuentes personalizadas*/
+.rubik-300 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.rubik-400 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.rubik-500 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.rubik-600 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.rubik-700 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.rubik-800 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+.rubik-900 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
